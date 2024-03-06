@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   49160    2190    1931 pty0     11:59:58 /usr/bin/ps
+   49160    1931    1930 pty0     10:19:00 /usr/bin/bash
+   49160    1930       1 ?        10:19:00 /usr/bin/mintty
